@@ -1,9 +1,6 @@
 # proyectoYunbitPHP
 
-**Prueba de conocimientos PHP Junior Offline**
-
-**PRUEBA DE CONOCIMIENTOS PARA INTEGRACIÓN**
-
+**Prueba de conocimientos PHP Junior Offline para integración**
 
 El entorno de trabajo deberá incluir un servidor web capaz de ejecutar PHP, y una base de
 datos. Se deberá crear una tabla llamada TEST_CLIENTS, con campos:
