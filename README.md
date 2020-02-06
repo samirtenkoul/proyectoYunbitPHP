@@ -5,17 +5,17 @@
 El entorno de trabajo deberá incluir un servidor web capaz de ejecutar PHP, y una base de
 datos.Se deberá crear una tabla llamada TEST_CLIENTS, con campos:
    
-   ID - int AUTO_INCREMENT
+   - ID - int AUTO_INCREMENT
    
-   NAME – varchar(255)
+   - NAME – varchar(255)
    
-   ADDRESS – varchar(255)
+   - ADDRESS – varchar(255)
    
-   DESCRIPTION - text
+   - DESCRIPTION - text
    
-   TELF– varchar(255)
-   T
-   YPE – char(1)
+   - TELF– varchar(255)
+   
+   - TYPE – char(1)
 
 Entregar el código SQL de creación de la tabla, o los pasos seguidos para crearla si no se
 hace mediante código.
