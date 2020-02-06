@@ -3,16 +3,24 @@
 **Prueba de conocimientos PHP Junior Offline para integración**
 
 El entorno de trabajo deberá incluir un servidor web capaz de ejecutar PHP, y una base de
-datos. Se deberá crear una tabla llamada TEST_CLIENTS, con campos:
+datos.Se deberá crear una tabla llamada TEST_CLIENTS, con campos:
+   
    ID - int AUTO_INCREMENT
+   
    NAME – varchar(255)
+   
    ADDRESS – varchar(255)
+   
    DESCRIPTION - text
+   
    TELF– varchar(255)
-   TYPE – char(1)
+   T
+   YPE – char(1)
+
 Entregar el código SQL de creación de la tabla, o los pasos seguidos para crearla si no se
 hace mediante código.
-Los ejercicios propuestos son:
+
+**Los ejercicios propuestos son:**
 1) Crear una página PHP que se conecte a la base de datos descrita, obtenga el contenido de los
 campos NAME, ADDRESS y TELF de todos los registros de la tabla TEST_CLIENTS y los muestre
 en pantalla.
