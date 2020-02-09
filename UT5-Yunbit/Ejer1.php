@@ -48,7 +48,3 @@ function obtener_datos() {
 }
 
 ?>
-
-
-
-
